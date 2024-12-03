@@ -1,17 +1,19 @@
 var youtube = "https://www.youtube.com/watch?v=edIK_3GWq2w";
-var twitter = "https://www.twitter.com/astroluna";
+var twitter = "https://x.com/astrospace_luna";
 var contractaddress = "placeholder_for_updating";
 var password = "meow";
 
 whois = [
   "<br>",
-  ".... . .-.. .-.. --- / .. / .- -- / .- / -.-. .- - / .- -. -..",
-  "/ .. / -- . --- .-- / .. -. / - .... . / ... --- .-.. .- -. .-",
-  "-... .-.. --- -.-. -.- -.-. .... .- .. -. .-.-.- / .. / .-.. -",
-  "/ -... .-.. --- -.-. -.- -.-. .... .- .. -. .-.-.- / .. / -.. ",
-  "--- / -.-. .- - / ... - ..- ..-. ..-. / .- -. -.. / -.-- --- ",
-  "..- / -.-. .- -. / - .- .-.. -.- / - --- / -- . / ..- ... .. ",
-  "-. --. / - .... . / .. -.-. --- -. / -... . .-.. --- .--",
+  ".... . .-.. .-.. --- --..-- / .. / .- -- / .-.. ..- -. .- ",
+  ".-.-.- / .. / .- -- / .- / ...- . .-. -.-- / ... -- .- .-. - /",
+  "... .--. .- -.-. . / -.-. .- - .-.-.- / -- -.-- / - .. -.-. ",
+  "-.- . .-. / .. ... / .-.. ..- -. .- / .- -. -.. / .. / .-.. ..",
+  "...- . / .. -. / - .... . / ... --- .-.. .- -. .- / -... .-.. ",
+  "--- -.-. -.- -.-. .... .- .. -. .-.-.- / .... .- .. .-.. .. -.",
+  "--. / ..-. .-. --- -- / . .- .-. - .... --..-- / -- -.-- / --.",
+  "--- .- .-.. / .. ... / - --- / - .-. .- ...- . .-.. / .. -. / ",
+  "... .--. .- -.-. . .-.-.-",
   "<br>"
 ];
 whoami = [
@@ -26,13 +28,13 @@ ca = [
   ];
 meow = [
   "<br>",
-  "contract address (Click to Copy): ",
+  "contract address (Click to Copy): ticker $LUNA",
   '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
   "<br>"
 ];
 social = [
   "<br>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/astroluna' + '</a>',
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/astrospace_luna' + '</a>',
   "<br>"
 ];
 
@@ -46,6 +48,10 @@ projects = [
   "<br>",
   "Still curating... most projects are offline or confidential.",
   "<br>"
+];
+
+search = [
+'<span id="serts"></span>',
 ];
 
 launch = [
