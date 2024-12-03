@@ -1,5 +1,6 @@
 var youtube = "https://www.youtube.com/watch?v=edIK_3GWq2w";
 var twitter = "https://www.twitter.com/astroluna";
+var contractaddress = "placeholder_for_updating";
 var password = "meow";
 
 whois = [
@@ -20,12 +21,13 @@ whoami = [
 ];
 ca = [
     "<br>",
-    "01110111 01101000 01101111 01100001 01101101 01101001",
+    "01101101 01100101 01101111 01110111",
     "<br>"
   ];
 meow = [
   "<br>",
-  "contract address: still updating",
+  "contract address (Click to Copy): ",
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
   "<br>"
 ];
 social = [
