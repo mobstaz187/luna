@@ -172,6 +172,7 @@ help = [
   '<span class="command">MissionLog</span>     View Luna Mission Logs',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">banner</span>         Display the header',
+  '<span class="command">Dex</span>            Boosters Engaged',
   "<br>",
   '<h1 class="command2"> additional scripts (use ex."./launch.sh" to run)</h1>',
   '<div class="command1"> journal.sh </div></br>',
