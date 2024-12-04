@@ -2,6 +2,7 @@ var youtube = "https://www.youtube.com/watch?v=edIK_3GWq2w";
 var twitter = "https://x.com/astrospace_luna";
 var contractaddress = "placeholder_for_updating";
 var password = "meow";
+var dex = "https://solscan.io/tx/2os2ekQPNM3LjTfYfdGqq4b4jdyRcX7ZkFaKCMPwrSXWDhN2tSJnVqnm73qLH4SoD6xo4mFst4KF3EyH2NW4CbRG?cluster=mainnet&fbclid=IwY2xjawG8oYRleHRuA2FlbQIxMAABHYhPrKN8DLnCaG9rlT5Yb1a4vO0mj7Lnv-kJVgAPTMeR6i_xSw6XcZhIew_aem_d_zE-vJhwxbW_fpMyGvKxg";
 
 whois = [
   "<br>",
@@ -14,6 +15,12 @@ whois = [
   "--. / ..-. .-. --- -- / . .- .-. - .... --..-- / -- -.-- / --.",
   "--- .- .-.. / .. ... / - --- / - .-. .- ...- . .-.. / .. -. / ",
   "... .--. .- -.-. . .-.-.-",
+  "<br>"
+];
+
+dexp = [
+  "<br>",
+  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">solscan/2os2ekQPNM3LjTfYfdGqq4b4jdyRcX7ZkFaKCMPwrSXWDhN2tSJnVqnm73qLH4SoD6xo4mFst4KF3EyH2NW4CbRG' + '</a>',
   "<br>"
 ];
 whoami = [
