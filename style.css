@@ -177,3 +177,8 @@ iframe { width:100%; border:0 }
     background-color: #3b2d2a;
     color: #3b2d2a;
   }
+
+  .disabled {
+    pointer-events: none;
+    opacity: 0.4;
+}
