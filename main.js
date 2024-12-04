@@ -159,6 +159,10 @@ function commander(cmd) {
       addLine("Opening Twitter...", "color2", 0);
       newTab(twitter);
       break;
+      case "dex":
+        addLine("Opening Dex TXN...", "color2", 0);
+        newTab(dex);
+        break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
