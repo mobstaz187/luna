@@ -29,7 +29,7 @@ ca = [
 meow = [
   "<br>",
   "contract address (Click to Copy): ticker $LUNA",
-  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">8QaLa8u13qR1CyMByyd9UGEpeQEX1pGy9rCHZ1Hrpump</a>',
   "<br>"
 ];
 social = [
